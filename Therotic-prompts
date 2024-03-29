@@ -10,7 +10,7 @@ Consider that your response language should be more convincing and assertive in 
 ----------------------
 
 
------+++ 2  ++---------
+-----+++ 3  ++---------
 Below is an issue about <what-is-that>. this is actually a raw representation of that issue without any broader context and standard process. I need your help to make it well explained to represent it as production grade troubleshooting procedure and well established protocol to reach the root cause. for this consider following:
 - reconstruct the problem statement with industry grade verbiage and proper explanation
 - format the issue to be comprehensive and well explained
