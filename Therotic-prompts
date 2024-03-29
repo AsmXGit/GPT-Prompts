@@ -8,3 +8,15 @@ Consider that your response language should be more convincing and assertive in 
  re-frame/re-construct following statement to look more professional with high level business verbiage and structure : "<statement>"
 
 ----------------------
+
+
+-----+++ 2  ++---------
+Below is an issue about <what-is-that>. this is actually a raw representation of that issue without any broader context and standard process. I need your help to make it well explained to represent it as production grade troubleshooting procedure and well established protocol to reach the root cause. for this consider following:
+- reconstruct the problem statement with industry grade verbiage and proper explanation
+- format the issue to be comprehensive and well explained
+- reconstruct the explanation to be more understandable and provide a broader context of the well explained scenario
+- reconstruct the root cause of the solution to follow the production grade troubleshooting procedure and adhered to standard operational best practices to reach the root cause, from beginning to end.
+
+here is that issue, in the raw format:
+<your-issue>
+----------------------
