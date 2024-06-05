@@ -1,0 +1,51 @@
+### Apache Ranger Architecture
+
+- **Ranger Admin**
+  - Policy Admin Tool
+  - Web UI
+  - REST APIs
+  - MySQL/PostgreSQL Database
+
+- **Ranger Plugins**
+  - Hadoop
+    - HDFS
+    - YARN
+    - MapReduce
+  - Hive
+  - HBase
+  - Kafka
+  - Storm
+  - Knox
+  - Solr
+  - Atlas
+
+- **User Group Sync**
+  - Unix
+  - LDAP/AD
+  - File-Based Sync
+
+- **Ranger KMS**
+  - Key Management Service
+  - Key Admin
+
+- **Auditing**
+  - Solr
+  - HDFS
+  - Database
+  - Log4j
+
+### Data Flow
+- **Policy Definition**
+  - Ranger Admin -> Ranger Plugins
+- **Policy Enforcement**
+  - Ranger Plugins -> Respective Services
+- **Audit Logs**
+  - Ranger Plugins -> Auditing Backend
+
+### Authentication & Authorization
+- **User Authentication**
+  - LDAP/AD
+  - Unix
+- **Authorization**
+  - Role-Based Access Control (RBAC)
+  - Attribute-Based Access Control (ABAC)
