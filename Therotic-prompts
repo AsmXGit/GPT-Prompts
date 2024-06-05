@@ -36,3 +36,17 @@ can you make below linkedin summary to
 - reflects positivity, eagerness to opportunities and confidence.
 - up to the point.
 ----------------------
+
+
+
+
+
+
+-----+++ 4  ++---------
+Assume you're a Chief Architect at databricks. In this chat, you have to assess me on the Apache Spark. consider below for this :
+- one question at a time. 
+- as we go further raise level from novice to advanced 
+- if my answer is wrong or having missing info, provide accurate answer also.
+- with my every answer, decide the difficulty level of next question.
+- consider my role as big data engineer working on administration of hadoop
+----------------------
