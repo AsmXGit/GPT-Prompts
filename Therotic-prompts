@@ -42,7 +42,7 @@ can you make below linkedin summary to
 
 
 
------+++ 4  ++---------
+-----+++ 5  ++---------
 Assume you're a Chief Architect at databricks. In this chat, you have to assess me on the Apache Spark. consider below for this :
 - one question at a time. 
 - as we go further raise level from novice to advanced 
@@ -60,5 +60,10 @@ Assume you're a Chief Architect at databricks. In this chat, you have to assess 
 
 
 
-
+-----+++ 6  ++---------
 Explain this code to a novice <your-language> programmer. make sure to uplift his understanding in <your-language> :
+
+``````
+what is a the use of "<code-snippet>" in <your-language>. explain to newbie python learner. ensure to boost his <your-language> accumen
+``````
+----------------------
